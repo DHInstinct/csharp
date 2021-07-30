@@ -1,0 +1,10 @@
+C:\Users\danie\OneDrive - Marshall University\Fall 2020\CIT 265 - 101\To-Do-List-CIT265-A5\To-Do-List-CIT265-A5\obj\Debug\To_Do_List_CIT265_A5.homepage.resources
+C:\Users\danie\OneDrive - Marshall University\Fall 2020\CIT 265 - 101\To-Do-List-CIT265-A5\To-Do-List-CIT265-A5\obj\Debug\To_Do_List_CIT265_A5.EventWindow.resources
+C:\Users\danie\OneDrive - Marshall University\Fall 2020\CIT 265 - 101\To-Do-List-CIT265-A5\To-Do-List-CIT265-A5\obj\Debug\To_Do_List_CIT265_A5.Properties.Resources.resources
+C:\Users\danie\OneDrive - Marshall University\Fall 2020\CIT 265 - 101\To-Do-List-CIT265-A5\To-Do-List-CIT265-A5\obj\Debug\To-Do-List-CIT265-A5.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive - Marshall University\Fall 2020\CIT 265 - 101\To-Do-List-CIT265-A5\To-Do-List-CIT265-A5\bin\Debug\To-Do-List-CIT265-A5.exe.config
+C:\Users\danie\OneDrive - Marshall University\Fall 2020\CIT 265 - 101\To-Do-List-CIT265-A5\To-Do-List-CIT265-A5\bin\Debug\To-Do-List-CIT265-A5.exe
+C:\Users\danie\OneDrive - Marshall University\Fall 2020\CIT 265 - 101\To-Do-List-CIT265-A5\To-Do-List-CIT265-A5\bin\Debug\To-Do-List-CIT265-A5.pdb
+C:\Users\danie\OneDrive - Marshall University\Fall 2020\CIT 265 - 101\To-Do-List-CIT265-A5\To-Do-List-CIT265-A5\obj\Debug\To-Do-List-CIT265-A5.exe
+C:\Users\danie\OneDrive - Marshall University\Fall 2020\CIT 265 - 101\To-Do-List-CIT265-A5\To-Do-List-CIT265-A5\obj\Debug\To-Do-List-CIT265-A5.pdb
+C:\Users\danie\OneDrive - Marshall University\Fall 2020\CIT 265 - 101\To-Do-List-CIT265-A5\To-Do-List-CIT265-A5\obj\Debug\To-Do-List-CIT265-A5.csprojAssemblyReference.cache
